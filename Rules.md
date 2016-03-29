@@ -41,10 +41,10 @@ Remember, asking for help is okay! Everybody at the hackathon should be happy to
 
 Teams will be judged on these four criteria. Judges will weigh the criteria equally. During judging, participants should try to describe what they did for each criterion in their project. 
 
-- *Technology:* How technically impressive was the hack? Was the technical problem the team tackle difficult? Did it use a particularly clever technique or did it use many different components? Did the technology involved make you go "Wow!"?
-- *Design:* Did the team put thought into the user experience? How well desgined is the interface? For a website, this might be about how beautiful the CSS or graphics are. For a hardware project, it might be more about how good the human-computer interaction is (e.g. is it easy to use or does it use a cool interface?). 
-- *Completion:* Does the hack work? Did the team achieve everything they wanted? 
-- *Learning:* Did the team stretch themselves? Did they try to learn something new? What kind of projects have they worked on before? If a team which always does virtual reality projects decides to switch up and try doing a mobile app instead, that exploration should be rewarded. 
+- __Technology:__ How technically impressive was the hack? Was the technical problem the team tackle difficult? Did it use a particularly clever technique or did it use many different components? Did the technology involved make you go "Wow!"?
+- __Design:__ Did the team put thought into the user experience? How well desgined is the interface? For a website, this might be about how beautiful the CSS or graphics are. For a hardware project, it might be more about how good the human-computer interaction is (e.g. is it easy to use or does it use a cool interface?). 
+- __Completion:__ Does the hack work? Did the team achieve everything they wanted? 
+- __Learning:__ Did the team stretch themselves? Did they try to learn something new? What kind of projects have they worked on before? If a team which always does virtual reality projects decides to switch up and try doing a mobile app instead, that exploration should be rewarded. 
 
 These criteria will guide judges but ultimately judges are free to make decisions based on their gut feeling of which projects are the most impressive and most deserving.
 
