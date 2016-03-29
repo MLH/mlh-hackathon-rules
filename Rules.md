@@ -2,7 +2,7 @@
 
 ## Advice to organizers on making a fair competition
 
-Hackers go to hackathons primarily for learning and meeting friends, so the competition aspect should be fun, friendly, and promote learning. To make sure you foster a fun and cooperative environment, rather than an overly competitive one, you should not have large cash prizes or prizes of an extremely high value. You should make sure to emphasise the importance of learning, teaching, and cooperating in your opening talks, workshops, and website copy. Do not over-emphasise competition or prizes on your website. People will be excited to attend your event because it will be a great environment for learning and making friends - prizes are an added bonus, not the be-all and end-all. Consider having prizes for the best newcomers, most improved, or the most ambitious idea to encourage an environment of learning.
+Hackers go to hackathons primarily for learning and meeting friends, so the competition aspect should be fun, friendly, and promote learning. To make sure you foster a fun and cooperative environment, rather than an overly competitive one, you should not have large cash prizes or prizes of an extremely high value. You should make sure to emphasise the importance of learning, teaching, and cooperating in your opening talks, workshops, and website copy. Do not over-emphasise competition or prizes on your website. People will be excited to attend your event because it will be a great environment for learning and making friends---prizes are an added bonus, not the be-all and end-all. Consider having prizes for the best newcomers, most improved, or the most ambitious idea to encourage an environment of learning.
 
 
 ## The spirit of the competition
