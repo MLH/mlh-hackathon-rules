@@ -10,34 +10,30 @@ Hackers go to hackathons primarily for learning and meeting friends, so the comp
 
 ## The spirit of the competition
 
-Hackathons are primarily about learning, sharing, and having fun. The competition is an added bonus of the event, not the be-all and end-all. So teams should communicate, be friendly to each other, and work together. You'll get a lot more from the event by working with other teams than by trying to work against them. Teams are encouraged to offer help and advice to each other. 
 
-Sharing is a big part of the _Hacker Spirit_. Refusing to help another team because of competition is not in the spirit of hackathons and is bad sportsmanship. You shouldn’t be afraid to share your ideas with other teams. Great ideas are built on collaboration and sharing, not secrecy and protectiveness. Teams should respect each other’s ideas and not copy each other. You are not judged on ideas anyway.
-
-Another big part of the _Hacker Spirit_ is building. You should endeavour to build something at the event. Hackathons are about building, not about pitching a business idea. Demos of working applications are encouraged and pitches or presentations are discouraged. If you weren't able to finish a working demo, that's fine! Show us what you managed to get built, and tell us what you learned! What matters is that you attempted to build something—that's the true _Hacker Spirit_!
-
-The last part of the _Hacker Spirit_ is about learning and teaching. Offer help and constructive feedback when you can. But be sure not to be condescending. For example, do not feign surprise (_"OMG how can you not know what Node.js is!?"_) but introduce people to things they may not know.
-
-Remember, asking for help is okay! Everybody at the hackathon will be happy to help you! If you're not comfortable asking for help from another hacker, feel free to ask an organizer, mentor, or sponsor—they'll be delighted to help! Getting help on your hack won't make you lose points, it's what you're meant to do!
 
 
 ## The rules of the competition
 
-1. Teams should be a maximum of four people.
-2. Teams should be made up exclusively of students (or recent graduates within one year of having graduated) who are not organizers, volunteers, judges, sponsors, or in any other privileged position at the event. All team members should be present at the event. Leaving the venue for some time to hack elsewhere is fine.
-3. Teams can of course gain advice and support from organizers, volunteers, sponsors, and others.
-4. Teams should not begin work on their project before the hackathon. 
-5. Teams can use an idea they had before the event.
-6. Teams can work on ideas that have already been done. Hacks do not have to be “innovative”. If somebody wants to make a bill splitting app (a very common idea) they should be allowed to do so and should be judged on the quality of their hack. These days it’s hard to find something that’s fully original and teams might not know an idea has been done before anyway.
-7. Teams can work on an idea that they have worked on before (as long as they do not re-use code).
-8. Teams can use libraries, frameworks, or open-source code in their projects. Working on a project before the event and open-sourcing it for the sole purpose of using the code during the event is against the spirit of rule 4 and is not allowed.
-9. Teams should let judges know the main technologies they used on a project. If a large portion of the functionality of a hack is implemented by a library or open-source code, teams must make it clear to judges what parts of the project is their own work. 
-10. Adding new features to existing projects is okay, but you must make it clear to judges what features already existed and what features you worked on during the event. Not making this clear to judges will be seen as breaking rule 4.
-11. Teams must stop hacking once the time is up.
-12. However, teams are allowed to debug and make small fixes to their programs after time is up. e.g. If during demoing your hack you find a bug that breaks your application and the fix is only a few lines of code, it's okay to fix that. Making large changes or adding new features is not allowed.
-13. Teams are strongly encouraged to present a demo of what they have built. Pitches or presentations are discouraged. Teams are not judged on the quality of their pitch or the quality of their idea. As you are judged on what you built, you'll only hurt yourself by not showing a demo.
-14. Teams are encouraged to present what they have done even if their hack is broken or they weren’t able to finish what they made. It's okay if you didn't finish your hack—that happens all the time! Completion is only one part of the judging criteria, so you might still do well. Also, demoing is not just about the competition. It's a chance to share with others what you learned and what you tried to build—that's what hacking's all about! For being courageous enough to demo, you'll receive a special MLH "I Demoed" sticker—it doesn't matter how good the demo is! In the case that you don't have anything to demo, giving a presentation is totally fine.
-15. Teams can be disqualified from the competition at the organizers' discretion. Reasons might include but are not limited to breaking the Competition Rules, breaking the [Code of Conduct](http://static.mlh.io/docs/mlh-code-of-conduct.pdf), or other unsporting behaviour.
+1. There is no maximum or minimum team size. But make sure to check how many prizes are available per team. If a large team wins a challenge, there might not be enough prizes for everyone.
+2. Teams should be made up exclusively of students (or recent graduates within one year of having graduated) who are not organizers, volunteers, judges, sponsors, or in any other privileged position at the event. 
+3. All team members should be present at the event. Leaving the venue for some time to hack elsewhere is fine.
+4. Teams can of course gain advice and support from organizers, volunteers, sponsors, and others.
+5. All work on a project should be done at the hackathon.
+6. Teams can use an idea they had before the event.
+7. Teams can work on ideas that have already been done. Hacks do not have to be “innovative”. If somebody wants to work on a common idea they should be allowed to do so and should be judged on the quality of their hack. These days it’s hard to find something that’s fully original and teams might not know an idea has been done before anyway.
+8. Teams can work on an idea that they have worked on before (as long as they do not re-use code).
+9. Teams can use libraries, frameworks, or open-source code in their projects. Working on a project before the event and open-sourcing it for the sole purpose of using the code during the event is against the spirit of the rules and is not allowed.
+10. Adding new features to existing projects is allowed. Judges will only consider new functionality introduced or new features added during the hackathon in determining the winners.
+11. Teams must stop hacking once the time is up. However, teams are allowed to debug and make small fixes to their programs after time is up. e.g. If during demoing your hack you find a bug that breaks your application and the fix is only a few lines of code, it's okay to fix that. Making large changes or adding new features is not allowed.
+12. Teams can be disqualified from the competition at the organizers' discretion. Reasons might include but are not limited to breaking the Competition Rules, breaking the [Code of Conduct](http://static.mlh.io/docs/mlh-code-of-conduct.pdf), or other unsporting behaviour.
+
+
+## Demos
+
+After hacking finishes, teams will show their projects each other and to judges in a science fair or in presentations.
+Teams are strongly encouraged to present a demo of what they have built. Pitches or presentations are discouraged. Teams are not judged on the quality of their pitch or the quality of their idea. As you are judged on what you built, you'll only hurt yourself by not showing a demo.
+Teams are encouraged to present what they have done even if their hack is broken or they weren’t able to finish what they made. It's okay if you didn't finish your hack—that happens all the time! Completion is only one part of the judging criteria, so you might still do well. Also, demoing is not just about the competition. It's a chance to share with others what you learned and what you tried to build—that's what hacking's all about! For being courageous enough to demo, you'll receive a special MLH "I Demoed" sticker—it doesn't matter how good the demo is! In the case that you don't have anything to demo, giving a presentation is totally fine.
 
 
 ## Judging Criteria
