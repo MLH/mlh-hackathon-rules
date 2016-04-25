@@ -3,11 +3,6 @@
 These are standard competition rules used at MLH Member Hackathons. Not all MLH Member Hackathons will use these rules as organizers can choose to use these or their own rules. Organizers can use these rules exactly or fork them and edit them to suit their needs. If you have a suggestion for these rules or a question about them, please submit an issue [here]().
 
 
-## Advice to organizers on making a fair competition
-
-Hackers go to hackathons primarily for learning and meeting friends, so the competition aspect should be fun, friendly, and promote learning. To make sure you foster a fun and cooperative environment, rather than an overly competitive one, you should [not have large cash prizes or prizes of an extremely high value](http://news.mlh.io/are-hackathon-prizes-the-worst-thing-since-moldy-sliced-bread-04-18-2014). You should make sure to emphasise the importance of learning, teaching, and cooperating in your opening talks, workshops, and website copy. Do not over-emphasise competition or prizes on your website. People will be excited to attend your event because it will be a great environment for learning and making friends—prizes are just an added bonus, not the be-all and end-all. Consider having prizes for the best newcomers, most improved, or the most ambitious idea to encourage an environment of learning.
-
-
 ## The spirit of the competition
 
 Remember that hackathons are like marathons. Some people go to compete but most people take part to better themselves and have fun. Whatever the reason is you're at a hackathon, make sure you're upholding the [hacker spirit]() by collaborating with other teams, helping beginners, and having fun.
