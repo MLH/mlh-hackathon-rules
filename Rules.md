@@ -29,7 +29,7 @@ Remember that hackathons are like marathons. Some people go to compete but most 
 
 After hacking finishes, teams will show their projects each other and to the judges.
 
-You are strongly encouraged to present a demo of what you have built. Pitches or presentations are discouraged. You are not judged on the quality of their pitch or the quality of their idea. As you are judged on what you built, you'll only hurt yourself by not showing a demo.
+You are strongly encouraged to present a demo of what you have built. Pitches or presentations are discouraged. You are not judged on the quality of your pitch or the quality of your idea. As you are judged on what you built, you'll only hurt yourself by not showing a demo.
 
 You are encouraged to present what you have done even if yout hack is broken or you weren’t able to finish. It's okay if you didn't finish your hack—that happens all the time! Completion is only one part of the judging criteria, so you might still do well. Also, demoing is not just about the competition. It's a chance to share with others what you learned and what you tried to build—that's what hacking's all about! For being courageous enough to demo, you'll receive a special MLH "I Demoed" sticker—it doesn't matter how good the demo is! In the case that you don't have anything to demo, you can give a presentation about what you tried and what you learned. Hearing what other people learned is interesting and inspiring for other attendees.
 
@@ -38,7 +38,7 @@ You are encouraged to present what you have done even if yout hack is broken or 
 
 Teams will be judged on these four criteria. Judges will weigh the criteria equally. During judging, participants should try to describe what they did for each criterion in their project. 
 
-- __Technology:__ How technically impressive was the hack? Was the technical problem the team tackle difficult? Did it use a particularly clever technique or did it use many different components? Did the technology involved make you go "Wow"?
+- __Technology:__ How technically impressive was the hack? Was the technical problem the team tackled difficult? Did it use a particularly clever technique or did it use many different components? Did the technology involved make you go "Wow"?
 - __Design:__ Did the team put thought into the user experience? How well designed is the interface? For a website, this might be about how beautiful the CSS or graphics are. For a hardware project, it might be more about how good the human-computer interaction is (e.g. is it easy to use or does it use a cool interface?). 
 - __Completion:__ Does the hack work? Did the team achieve everything they wanted? 
 - __Learning:__ Did the team stretch themselves? Did they try to learn something new? What kind of projects have they worked on before? If a team which always does virtual reality projects decides to switch up and try doing a mobile app instead, that exploration should be rewarded. 
