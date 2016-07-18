@@ -1,11 +1,11 @@
 # Hackathon Rules
 
-These are standard competition rules used at MLH Member Hackathons. Not all MLH Member Hackathons will use these rules as organizers can choose to use these or their own rules. Organizers can use these rules exactly or fork them and edit them to suit their needs. If you have a suggestion for these rules or a question about them, please submit an issue [here]().
+These are standard competition rules used at MLH Member Hackathons. Not all MLH Member Hackathons will use these rules as organizers can choose to use these or their own rules. Organizers can use these rules exactly or fork them and edit them to suit their needs. If you have a suggestion for these rules or a question about them, please submit an issue [here](https://github.com/MLH/hackathon-rules/issues).
 
 
 ## The spirit of the competition
 
-Remember that hackathons are like marathons. Some people go to compete but most people take part to better themselves and have fun. Whatever the reason is you're at a hackathon, make sure you're upholding the [hacker spirit]() by collaborating with other teams, helping beginners, and having fun.
+Remember that hackathons are like marathons. Some people go to compete but most people take part to better themselves and have fun. Whatever the reason is you're at a hackathon, make sure you're upholding the [hacker spirit](https://medium.com/@tfogo/the-spirit-of-hackathons-a0d81a65060a#.6cx5ac9t8) by collaborating with other teams, helping beginners, and having fun.
 
 
 ## The rules of the competition
