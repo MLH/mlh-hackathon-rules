@@ -34,6 +34,7 @@ Once something is reported to a staff member, immediately contact the League Tea
 
 - Tim Fogarty - tim@mlh.io
 - Shy Ruparel - shy@mlh.io	
+- Carl Domingo - carl@mlh.io
 
 You can contact them on slack (where you can also find their cell numbers). The main objectives of the meeting with the League Team are to find out the following:
 
