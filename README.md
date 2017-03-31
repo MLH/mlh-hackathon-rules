@@ -4,6 +4,6 @@ These are standard competition rules used at MLH Member Hackathons. Not all MLH 
 
 There are several documents in the _Hackathon Rules_:
 
-- [Advice to Organizers](Advice to Organizers.md): A few tips for organizers on how to make sure they create a fun and fair competition.
+- [Advice to Organizers](Advice%20to%20Organizers.md): A few tips for organizers on how to make sure they create a fun and fair competition.
 - [Rules](Rules.md): The list of rules participants must follow and the judging criteria.
-- [Cheating Response Procedure](Cheating Response Procedure.md): How people can report violations of the rules and how those reports will be dealt with.
+- [Cheating Response Procedure](Cheating%20Response%20Procedure.md): How people can report violations of the rules and how those reports will be dealt with.
