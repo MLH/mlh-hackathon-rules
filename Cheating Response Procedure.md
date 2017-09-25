@@ -46,11 +46,13 @@ Once League Team have been contacted they will work with the staff member to loo
 The League Team will then investigate the allegation by reviewing public materials about the hack, including project repos, project submissions, and anything else available to them. 
 
 ## Response
+
 ### Cheating Did Not Occur
 
 If MLH determines cheating did not occur, they will compile a report and inform the organizer and the reporter.
 
-###Other Outcomes
+### Other Outcomes
+
 If MLH is unable to determine that cheating did not occur based on publicly available resources, the organizer and MLH will then communicate with the alleged cheater. Informing them of what has been reported about them.
 Allow the alleged cheater to give their side of the story to the staff. After this point, if the report stands, let the alleged cheater know what actions will be taken against them.
 
