@@ -30,10 +30,9 @@ There are also some guidelines as to what not to do as an initial response:
 - Do not ask for their advice on how to deal with the complaint. This is a staff responsibility
 - Do not offer them input into penalties. This is the staff's responsibility
 
-Once something is reported to a staff member, immediately contact the League Team. The league team currently consists of:
+Once something is reported to a staff member, immediately contact the League Team at league@mlh.io. The league team currently consists of:
 
-- Tim Fogarty - tim@mlh.io
-- Shy Ruparel - shy@mlh.io	
+- Chi Nguyen - chi@mlh.io
 - Carl Domingo - carl@mlh.io
 
 You can contact them on slack (where you can also find their cell numbers). The main objectives of the meeting with the League Team are to find out the following:
