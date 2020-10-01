@@ -27,7 +27,7 @@ Remember that hackathons are like marathons. Some people go to compete but most 
 
 ## Demos
 
-After hacking finishes, teams will show their projects each other and to the judges.
+After hacking finishes, teams will show their projects to each other and to the judges.
 
 You are strongly encouraged to present a demo of what you have built. Pitches or presentations are discouraged. You are not judged on the quality of your pitch or the quality of your idea. As you are judged on what you built, you'll only hurt yourself by not showing a demo.
 
